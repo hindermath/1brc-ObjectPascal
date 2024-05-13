@@ -71,3 +71,5 @@ generator/Delphi/src/OSX64/
 generator/Delphi/src/Win32/
 generator/Delphi/src/Win64/
 generator/Delphi/src/Linux64/
+
+.DS_Store
